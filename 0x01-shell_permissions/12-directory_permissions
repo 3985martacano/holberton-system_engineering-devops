@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 755 /my_dir
+mkir -m 751 /my_dir
