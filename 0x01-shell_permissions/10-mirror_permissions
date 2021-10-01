@@ -1,2 +1,2 @@
 #!/bin/bash
---RFILE=olleh hello
+chmod --RFILE=ollehhello
