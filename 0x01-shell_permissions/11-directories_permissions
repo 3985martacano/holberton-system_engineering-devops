@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 711 
+chmod ugo+x ./* 
