@@ -1,2 +1,2 @@
 #!/bin/bash
-chochownn ugo+x ./* 
+chmod ugo+X ./*
