@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --RFILE u+wx,g+rx,o+r olleh
+chmod --RFILE 354 olleh
